@@ -1,7 +1,7 @@
 {
   "name": "breacking-bad",
   "version": "0.1.0",
-  "homepage": "https://fuadaliah.github.io/braking-bad/",
+  "homepage": "https://fuadaliah.github.io/breaking-bad/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
